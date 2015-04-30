@@ -1,0 +1,7 @@
+*.py[co]
+build/
+dist/
+src/pwutils.egg-info/
+doc/_build/
+env/
+__pycache__
